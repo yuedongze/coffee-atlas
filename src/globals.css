@@ -57,3 +57,10 @@
 .transformation-chain .cluster-row button{background:#fffdf9;font-size:12px;font-weight:600}
 .transformation-chain .cluster-rows{gap:8px}
 .transformation-chain .cluster-row:not(:last-child)::after{content:'↓';position:absolute;left:50%;margin-top:49px;color:#82708e;font-size:11px;pointer-events:none}
+
+.mobile-path-bar{display:none}
+@media(max-width:700px){
+ .mobile-path-bar{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:4px 16px;border-bottom:1px solid var(--line);background:#f7f7ef;flex-shrink:0}
+ .mobile-path-bar .route-toggle{min-height:44px;font-size:13px;padding:0 4px}
+ .mobile-path-bar>span{font-size:11px;color:var(--muted)}
+}
