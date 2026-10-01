@@ -71,3 +71,9 @@
  .search-wrap{gap:5px;padding:9px 6px}
  .search-wrap input{font-size:12px}
 }
+
+@media(max-width:700px){
+ .toolbar .search-wrap{display:none}
+ .toolbar .view-switch{width:100%;background:transparent;padding:0}
+ .view-switch .mobile-beginner-toggle{margin-right:auto}
+}
