@@ -77,3 +77,16 @@
  .toolbar .view-switch{width:100%;background:transparent;padding:0}
  .view-switch .mobile-beginner-toggle{margin-right:auto}
 }
+
+/* Authored Markdown in the topic drawer. */
+.markdown > :first-child{margin-top:0}
+.markdown > :last-child{margin-bottom:0}
+.card-body h2{font-family:inherit;font-size:18px;line-height:1.4;margin:28px 0 10px}
+.card-body h3{font-size:16px;margin:20px 0 8px}
+.markdown ul,.markdown ol{padding-left:24px;line-height:1.7}
+.markdown li+li{margin-top:6px}
+.markdown a{color:#456849;text-decoration:underline;overflow-wrap:anywhere}
+.markdown img{max-width:100%;height:auto}
+.markdown pre{overflow:auto;padding:12px;background:#f0f1e8;border-radius:6px}
+.markdown code{font-size:.9em}
+.card-body{margin-top:28px}

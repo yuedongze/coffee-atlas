@@ -1,0 +1,590 @@
+[
+  {
+    "id": "seed-to-cup",
+    "domain": "green",
+    "core": true,
+    "file": "green-potential/seed-to-cup.md"
+  },
+  {
+    "id": "origins",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/origins.md"
+  },
+  {
+    "id": "varieties",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/varieties.md"
+  },
+  {
+    "id": "processing",
+    "domain": "green",
+    "core": true,
+    "file": "green-potential/processing.md"
+  },
+  {
+    "id": "physical-attributes",
+    "domain": "green",
+    "core": true,
+    "file": "green-potential/physical-attributes.md"
+  },
+  {
+    "id": "moisture",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/moisture.md"
+  },
+  {
+    "id": "water-activity",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/water-activity.md"
+  },
+  {
+    "id": "density",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/density.md"
+  },
+  {
+    "id": "green-evaluation",
+    "domain": "green",
+    "core": true,
+    "file": "green-potential/green-evaluation.md"
+  },
+  {
+    "id": "harvest",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/harvest.md"
+  },
+  {
+    "id": "washed",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/washed.md"
+  },
+  {
+    "id": "natural",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/natural.md"
+  },
+  {
+    "id": "honey",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/honey.md"
+  },
+  {
+    "id": "fermentation",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/fermentation.md"
+  },
+  {
+    "id": "green-defects",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/green-defects.md"
+  },
+  {
+    "id": "sample-roasting",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/sample-roasting.md"
+  },
+  {
+    "id": "green-storage",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/green-storage.md"
+  },
+  {
+    "id": "drying",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/drying.md"
+  },
+  {
+    "id": "ethiopia",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/ethiopia.md"
+  },
+  {
+    "id": "kenya",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/kenya.md"
+  },
+  {
+    "id": "panama",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/panama.md"
+  },
+  {
+    "id": "colombia",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/colombia.md"
+  },
+  {
+    "id": "experimental-processing",
+    "domain": "green",
+    "core": false,
+    "file": "green-potential/experimental-processing.md"
+  },
+  {
+    "id": "roaster",
+    "domain": "roast",
+    "core": true,
+    "file": "roast-transformation/roaster.md"
+  },
+  {
+    "id": "phases",
+    "domain": "roast",
+    "core": true,
+    "file": "roast-transformation/phases.md"
+  },
+  {
+    "id": "heat-transfer",
+    "domain": "roast",
+    "core": true,
+    "file": "roast-transformation/heat-transfer.md"
+  },
+  {
+    "id": "baseline",
+    "domain": "roast",
+    "core": true,
+    "file": "roast-transformation/baseline.md"
+  },
+  {
+    "id": "cooling",
+    "domain": "roast",
+    "core": true,
+    "file": "roast-transformation/cooling.md"
+  },
+  {
+    "id": "target",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/target.md"
+  },
+  {
+    "id": "machines",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/machines.md"
+  },
+  {
+    "id": "sensors",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/sensors.md"
+  },
+  {
+    "id": "maillard",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/maillard.md"
+  },
+  {
+    "id": "airflow",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/airflow.md"
+  },
+  {
+    "id": "first-crack",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/first-crack.md"
+  },
+  {
+    "id": "ror",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/ror.md"
+  },
+  {
+    "id": "endpoint",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/endpoint.md"
+  },
+  {
+    "id": "drum",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/drum.md"
+  },
+  {
+    "id": "fluid-bed",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/fluid-bed.md"
+  },
+  {
+    "id": "conduction",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/conduction.md"
+  },
+  {
+    "id": "convection",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/convection.md"
+  },
+  {
+    "id": "radiation",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/radiation.md"
+  },
+  {
+    "id": "batch-mass",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/batch-mass.md"
+  },
+  {
+    "id": "warm-up",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/warm-up.md"
+  },
+  {
+    "id": "roast-color",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/roast-color.md"
+  },
+  {
+    "id": "weight-loss",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/weight-loss.md"
+  },
+  {
+    "id": "air-roasters",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/air-roasters.md"
+  },
+  {
+    "id": "hybrid-roasters",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/hybrid-roasters.md"
+  },
+  {
+    "id": "roast-drying",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/roast-drying.md"
+  },
+  {
+    "id": "browning-chemistry",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/browning-chemistry.md"
+  },
+  {
+    "id": "sugar-breakdown",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/sugar-breakdown.md"
+  },
+  {
+    "id": "chlorogenic-acids",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/chlorogenic-acids.md"
+  },
+  {
+    "id": "organic-acids",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/organic-acids.md"
+  },
+  {
+    "id": "aroma-formation",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/aroma-formation.md"
+  },
+  {
+    "id": "development",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/development.md"
+  },
+  {
+    "id": "internal-conduction",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/internal-conduction.md"
+  },
+  {
+    "id": "bean-geometry",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/bean-geometry.md"
+  },
+  {
+    "id": "thermal-properties",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/thermal-properties.md"
+  },
+  {
+    "id": "thermal-time",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/thermal-time.md"
+  },
+  {
+    "id": "profile-template",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/profile-template.md"
+  },
+  {
+    "id": "profile-matrix",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/profile-matrix.md"
+  },
+  {
+    "id": "co2",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/co2.md"
+  },
+  {
+    "id": "oxidation",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/oxidation.md"
+  },
+  {
+    "id": "resting-window",
+    "domain": "roast",
+    "core": false,
+    "file": "roast-transformation/resting-window.md"
+  },
+  {
+    "id": "cupping",
+    "domain": "sensory",
+    "core": true,
+    "file": "sensory-expression/cupping.md"
+  },
+  {
+    "id": "water",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/water.md"
+  },
+  {
+    "id": "sensory-language",
+    "domain": "sensory",
+    "core": true,
+    "file": "sensory-expression/sensory-language.md"
+  },
+  {
+    "id": "blind-tasting",
+    "domain": "sensory",
+    "core": true,
+    "file": "sensory-expression/blind-tasting.md"
+  },
+  {
+    "id": "attribution",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/attribution.md"
+  },
+  {
+    "id": "evaluate",
+    "domain": "sensory",
+    "core": true,
+    "file": "sensory-expression/evaluate.md"
+  },
+  {
+    "id": "grind",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/grind.md"
+  },
+  {
+    "id": "brew-ratio",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/brew-ratio.md"
+  },
+  {
+    "id": "calibration",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/calibration.md"
+  },
+  {
+    "id": "texture",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/texture.md"
+  },
+  {
+    "id": "experiment",
+    "domain": "practice",
+    "core": true,
+    "file": "experiment-and-repeat/experiment.md"
+  },
+  {
+    "id": "logging",
+    "domain": "practice",
+    "core": false,
+    "file": "experiment-and-repeat/logging.md"
+  },
+  {
+    "id": "scale-up",
+    "domain": "practice",
+    "core": false,
+    "file": "experiment-and-repeat/scale-up.md"
+  },
+  {
+    "id": "qc",
+    "domain": "practice",
+    "core": true,
+    "file": "experiment-and-repeat/qc.md"
+  },
+  {
+    "id": "replication",
+    "domain": "practice",
+    "core": false,
+    "file": "experiment-and-repeat/replication.md"
+  },
+  {
+    "id": "triangle",
+    "domain": "practice",
+    "core": false,
+    "file": "experiment-and-repeat/triangle.md"
+  },
+  {
+    "id": "traceability",
+    "domain": "practice",
+    "core": false,
+    "file": "experiment-and-repeat/traceability.md"
+  },
+  {
+    "id": "release",
+    "domain": "practice",
+    "core": false,
+    "file": "experiment-and-repeat/release.md"
+  },
+  {
+    "id": "mapping-roast",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/mapping-roast.md"
+  },
+  {
+    "id": "mapping-brew",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/mapping-brew.md"
+  },
+  {
+    "id": "mapping-target",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/mapping-target.md"
+  },
+  {
+    "id": "immersion",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/immersion.md"
+  },
+  {
+    "id": "customer-recipe",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/customer-recipe.md"
+  },
+  {
+    "id": "sensory-axes",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/sensory-axes.md"
+  },
+  {
+    "id": "relative-coordinates",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/relative-coordinates.md"
+  },
+  {
+    "id": "target-region",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/target-region.md"
+  },
+  {
+    "id": "comparison-matrix",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/comparison-matrix.md"
+  },
+  {
+    "id": "temperature-flight",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/temperature-flight.md"
+  },
+  {
+    "id": "shortlist",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/shortlist.md"
+  },
+  {
+    "id": "blind-validation",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/blind-validation.md"
+  },
+  {
+    "id": "rest-validation",
+    "domain": "sensory",
+    "core": false,
+    "file": "sensory-expression/rest-validation.md"
+  },
+  {
+    "id": "broad-exploration",
+    "domain": "practice",
+    "core": false,
+    "file": "experiment-and-repeat/broad-exploration.md"
+  },
+  {
+    "id": "guided-iteration",
+    "domain": "practice",
+    "core": false,
+    "file": "experiment-and-repeat/guided-iteration.md"
+  },
+  {
+    "id": "search-limits",
+    "domain": "practice",
+    "core": false,
+    "file": "experiment-and-repeat/search-limits.md"
+  },
+  {
+    "id": "one-variable",
+    "domain": "practice",
+    "core": false,
+    "file": "experiment-and-repeat/one-variable.md"
+  }
+]
