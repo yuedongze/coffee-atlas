@@ -22,4 +22,4 @@ function atlasContent(): Plugin {
     },
   };
 }
-export default defineConfig({ plugins: [react(), atlasContent()], base: '/coffee-atlas/' });
+export default defineConfig({ plugins: [react(), atlasContent()], base: '/' });
